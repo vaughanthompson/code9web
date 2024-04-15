@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="350" height="350" viewBox="0 0 350 350">
+  <title>radial</title>
+  <path d="M175,349A174,174,0,0,1,107.27,14.67,174,174,0,0,1,242.73,335.33,173,173,0,0,1,175,349Z" style="fill: none;stroke: #373737;stroke-miterlimit: 10"/>
+  <path d="M175,327.31A152.35,152.35,0,0,1,115.71,34.66,152.35,152.35,0,0,1,234.29,315.34,151.43,151.43,0,0,1,175,327.31Z" style="fill: none;stroke: #373737;stroke-miterlimit: 10"/>
+  <path d="M175,305.62a130.65,130.65,0,0,1-50.84-251,130.65,130.65,0,0,1,101.68,240.7A129.63,129.63,0,0,1,175,305.62Z" style="fill: none;stroke: #373737;stroke-miterlimit: 10"/>
+  <path d="M175,283.93A108.95,108.95,0,1,1,252,252,108.17,108.17,0,0,1,175,283.93Z" style="fill: none;stroke: #373737;stroke-miterlimit: 10"/>
+  <path d="M175,262.24a87.23,87.23,0,1,1,61.69-25.55A86.71,86.71,0,0,1,175,262.24Z" style="fill: none;stroke: #373737;stroke-miterlimit: 10"/>
+  <circle cx="175" cy="175" r="65.55" transform="translate(-35.53 305.11) rotate(-76.72)" style="fill: none;stroke: #373737;stroke-miterlimit: 10"/>
+</svg>
